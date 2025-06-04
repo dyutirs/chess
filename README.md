@@ -45,6 +45,3 @@ A JavaFX-based chess application with both player vs. player and player vs. AI m
 - `org.studyeasy.chess.ui` - User interface components
 - `org.studyeasy.chess.ai` - AI opponent implementation using OpenAI
 
-## License
-
-[MIT License](LICENSE)
